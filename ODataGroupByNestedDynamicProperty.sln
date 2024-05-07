@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ODataGroupByNestedDynamicProperty", "ODataGroupByNestedDynamicProperty.csproj", "{50D487D8-1DD3-499F-A9E2-7C72AA75AEED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50D487D8-1DD3-499F-A9E2-7C72AA75AEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D487D8-1DD3-499F-A9E2-7C72AA75AEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D487D8-1DD3-499F-A9E2-7C72AA75AEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D487D8-1DD3-499F-A9E2-7C72AA75AEED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2F506ED-93DA-42A9-893A-466AE4C077AB}
+	EndGlobalSection
+EndGlobal
